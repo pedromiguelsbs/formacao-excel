@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ícone Excel" title="Ícone Excel" src=".git/excel-logo.png" width="200px" />
+    <img alt="Ícone Excel" title="Ícone Excel" src="assets/excel-logo.png" width="200px" />
 </h1>
 
 <h2 align="center">Formação Excel - Alura</h2>
@@ -9,7 +9,7 @@
    <img alt="Criado por" src="https://img.shields.io/static/v1?label=Criado por&message=pedromiguelsbs&color=33C481&labelColor=000000">
  </a>
  <a href="https://github.com/pedromiguelsbs/formacao-excel/blob/main/LICENSE">
-   <img alt="License" src="https://img.shields.io/static/v1?label=Licença&message=MIT&color=33C481&labelColor=000000">
+   <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=33C481&labelColor=000000">
  </a>
 </p>
 
