@@ -2,7 +2,7 @@
     <img alt="Ícone Excel" title="Ícone Excel" src="assets/excel-logo.png" width="200px" />
 </h1>
 
-<h2 align="center">Formação Excel - Alura</h2>
+<h2 align="center">Formação Excel</h2>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/pedromiguelsbs/">
